@@ -33,6 +33,10 @@ Perfect example of a modern **SPA (Single Page Application)** using Laravel as b
 - Axios  
 - TailwindCSS  
 
+
+## Screenshots:
+<img width="1104" height="436" alt="image" src="https://github.com/user-attachments/assets/af8f81b9-1d07-4a11-9e20-f492311953c0" />
+
 **Backend:**
 - Laravel 10  
 - Laravel Breeze  
