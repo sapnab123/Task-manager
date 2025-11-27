@@ -42,6 +42,8 @@ Perfect example of a modern **SPA (Single Page Application)** using Laravel as b
 <img width="1104" height="436" alt="image" src="https://github.com/user-attachments/assets/af8f81b9-1d07-4a11-9e20-f492311953c0" />
 <img width="927" height="390" alt="image" src="https://github.com/user-attachments/assets/b6eabb83-051e-4845-86fb-231fd178b7cd" />
 <img width="1080" height="427" alt="image" src="https://github.com/user-attachments/assets/7152a51f-cdf1-4856-a4eb-cc4c9de5359d" />
+<img width="1847" height="975" alt="image" src="https://github.com/user-attachments/assets/058d9082-a8bb-4799-b9fa-b238b80eee57" />
+
 
 
 
